@@ -172,3 +172,40 @@ nav{
     margin: 2px;
     color: rgba(0, 0, 0, 0.438);
 }
+.form-section{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 150px 150px 150px;
+}
+.section-heading{
+    font-size: 97px;
+    font-weight: bold;
+    margin-right: 100px;
+}
+.form-container{
+    gap: 20px;
+}
+.form-container label{
+    font-size: 18px;
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.form-btn{
+    height: 62px;
+    width: 470px;
+    padding: 12px 36px;
+    font-size: 15px;
+}
+form input,form textarea{
+    background-color: white;
+    font-family: sans-serif;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.316);
+    font-size: 20px;
+    padding: 20px 32px;
+    margin-bottom: 20px;
+    width: 400px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
