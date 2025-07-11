@@ -24,6 +24,9 @@ header{
   font-variation-settings:
     "wdth" 100;
 }
+.bg{
+    background-color: #f2f4f7;
+}
 nav{
     display: flex;
     align-items: center;
