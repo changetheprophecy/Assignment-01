@@ -62,7 +62,9 @@ nav{
     text-align: center;
     font-size: 65px;
     font-weight: bold;
-    margin: 200px 200px 37px;
+    margin: 200px auto 37px;
+    width: 905px;
+    height: 152px;
 }
 .btn-secondary{
     display: block;
@@ -85,11 +87,13 @@ nav{
     font-weight: bold;
     font-size: 42px;
     color: #252432;
+    margin-bottom: 23px;
 }
 .action-subtitle{
     font-size: 24px;
     font-weight: 400;
     color: rgba(37, 36, 50, 0.5);
+    margin-bottom: 23px;
 }
 .action-btn{
     height: 48px;
